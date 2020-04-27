@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,cAAe,CACf,wBAAiC,CACjC,oBAAqB,CACrB,iBAAkB,CAClB,YAAa,CACb,cAAe,CACf,YACF","file":"main.d864880a.chunk.css","sourcesContent":[".btnCount {\n  cursor: pointer;\n  background-color: rgb(228, 67, 4);\n  border: 1px solid red;\n  border-radius: 8px;\n  padding: 10px;\n  font-size: 20px;\n  outline: none;\n}\n"]}
